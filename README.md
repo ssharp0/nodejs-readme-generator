@@ -9,10 +9,16 @@ Readme Generator using node.js and npm (inquirer)
 <img src="https://img.shields.io/badge/npmInquirer-red">
 </p>
 
+### Demo Video: https://drive.google.com/file/d/1oQbV4JtNko9Kl-70clnKMuttg_v7IZDS/view?usp=sharing
+
 ## Description
 A Node.js command-line based application where a user will be presented with a series of questions (in the terminal) to generate a README.md for their repository.
 
 Example generated README.md is located in the 'dist' folder where the README.md file is generated.
+
+Video demonstrating application functionality:
+
+![README Generator] (./assets/generated-demo-README.gif)
 
 ## Usage
 
@@ -49,11 +55,9 @@ After all user input has been recieved, then the README.md file (located in the 
 
 ## Screenshots
 
-![]
+![] (assets/generated-demo-README.png)
 
-![]
-
-![]
+![] (assets/terminal-prompts.png)
 
 
 ## Technologies
