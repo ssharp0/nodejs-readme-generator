@@ -59,6 +59,8 @@ After all user input has been recieved, then the README.md file (located in the 
 
 ![](assets/terminal-prompts.png)
 
+![](assets/README-demo-result.png)
+
 
 ## Technologies
 
