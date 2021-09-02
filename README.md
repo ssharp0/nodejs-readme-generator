@@ -18,7 +18,7 @@ Example generated README.md is located in the 'dist' folder where the README.md 
 
 Video demonstrating application functionality:
 
-![README Generator](./assets/generated-demo-README.gif)
+![README Generator](./assets/readme-generator-demo.gif)
 
 ## Usage
 
