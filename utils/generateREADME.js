@@ -1,6 +1,7 @@
 // util for general function to use throughout the entire package for exporting
 // https://shields.io/category/license
 
+// function to generate the README based on the users answers - answers are added to each section accordingly
 function generateREADME(userAnswers) {
  return `
  
@@ -27,8 +28,11 @@ function generateREADME(userAnswers) {
 
  ## Installation
 
+ To install dependencies - run these commands:
+ \`\`\`
  ${userAnswers.projectInstallation}
-
+ \`\`\`
+ 
  ## Usage
 
  ${userAnswers.projectUsage}
